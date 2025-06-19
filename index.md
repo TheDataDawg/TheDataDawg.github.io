@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Jacob Hotchkiss
+description: "Data Engineer & Analytics Professional"
 ---
 
 ## About Me
