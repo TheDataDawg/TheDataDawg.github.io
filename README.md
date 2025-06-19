@@ -18,5 +18,5 @@ This repository hosts my personal portfolio website, built with GitHub Pages usi
 
 ## ✉ Contact
 - [LinkedIn](https://www.linkedin.com/in/jacobrhotchkiss)
-- [GitHub](https://github.com/the-data-dawg)
+- [GitHub](https://github.com/TheDataDawg)
 - Email: jakerhotchkiss@gmail.com
