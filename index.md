@@ -5,7 +5,7 @@ layout: default
 # Jake Hotchkiss  
 **Data Engineer & Analytics Professional**
 
-<img src="images/headshot.jpg" alt="Headshot" width="150">
+<img src="images/headshot.jpg" alt="Headshot" width="200">
 
 
 Hi, I’m Jake Hotchkiss — my journey began with a passion for sports, but during college I discovered my fascination with solving problems through data. Today I build scalable pipelines, create data workflows, and turn complex data into actionable insights to drive real-world impact.
