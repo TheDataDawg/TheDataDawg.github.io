@@ -2,8 +2,7 @@
 layout: default
 ---
 
-# Jake Hotchkiss  
-**Data Engineer & Analytics Professional**
+## About Me
 
 <img src="images/headshot.jpg" alt="Headshot" width="200">
 
