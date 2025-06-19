@@ -44,4 +44,4 @@ AWS/Linux Python app with Bollinger bands, mean reversion strategies yielding up
 
 ## 📬 Contact  
 Email: jakerhotchkiss@gmail.com  
-[LinkedIn](https://www.linkedin.com/in/jacobrhotchkiss) | [GitHub](https://github.com/the-data-dawg) | [Medium](https://medium.com/@jacobrhotchkiss)
+[LinkedIn](https://www.linkedin.com/in/jacobrhotchkiss) | [GitHub](https://github.com/TheDataDawg) | [Medium](https://medium.com/@jacobrhotchkiss)
