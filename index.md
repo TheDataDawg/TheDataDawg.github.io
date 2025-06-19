@@ -5,7 +5,8 @@ layout: default
 # Jake Hotchkiss  
 **Data Engineer & Analytics Professional**
 
-![Headshot](images/headshot.jpg)
+<img src="images/headshot.jpg" alt="Headshot" width="150">
+
 
 Hi, I’m Jake Hotchkiss — my journey began with a passion for sports, but during college I discovered my fascination with solving problems through data. Today I build scalable pipelines, create data workflows, and turn complex data into actionable insights to drive real-world impact.
 
@@ -43,4 +44,4 @@ AWS/Linux Python app with Bollinger bands, mean reversion strategies yielding up
 
 ## 📬 Contact  
 Email: jakerhotchkiss@gmail.com  
-[LinkedIn](https://www.linkedin.com/in/jacobrhotchkiss) | [GitHub](https://github.com/the-data-dawg)
+[LinkedIn](https://www.linkedin.com/in/jacobrhotchkiss) | [GitHub](https://github.com/the-data-dawg) | [Medium](https://medium.com/@jacobrhotchkiss)
