@@ -26,7 +26,8 @@ Built scalable Glue + Spark jobs processing 80K+ IoT records/run, enforced priva
 ### [Stock Market Trading Simulator](https://github.com/TheDataDawg/Stock-Market-Trading-Simulator)
 AWS/Linux Python app with Bollinger bands, mean reversion strategies yielding up to 40% annual returns.
 
-### [Crypto Currency Triangular Arbitrage Simulations](https://github.com/your_repo)
+### [Crypto Currency Triangular Arbitrage Simulations](https://github.com/TheDataDawg/crypto-triangular-arbitrage)
+Python app using NetworkX and matplotlib to simulate triangular crypto arbitrage by analyzing exchange rate paths.
 
 ---
 
