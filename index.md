@@ -11,7 +11,7 @@ description: "Data Engineer & Analytics Professional"
 
 Hi, I’m Jake Hotchkiss — my journey began with a passion for sports, but during college I discovered my fascination with solving problems through data. Today I build scalable pipelines, create data workflows, and turn complex data into actionable insights to drive real-world impact.
 
-[LinkedIn](https://www.linkedin.com/in/jacobrhotchkiss) • [GitHub](https://github.com/the-data-dawg) • [Resume](/files/Jake-Hotchkiss-Resume.pdf)
+[LinkedIn](https://www.linkedin.com/in/jacobrhotchkiss) • [GitHub](https://github.com/the-data-dawg) • [Resume](Jake-Hotchkiss-Resume.pdf)
 
 ---
 
